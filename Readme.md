@@ -1,5 +1,5 @@
-Name: Implementação computacional de um modelo matemático de imunoquimioterapia
-Description:2m2c2l
+Mathematical Model for Chemoimmunotherapy of Chronic Lymphocytic Leukemia (2M2C2L)
+
 Badges:
 Visuals:
 Installation:
@@ -7,6 +7,6 @@ Usage:
 Support:
 Roadmap:
 Contributing:
-Authors and acknoowledgment: Thaistudandoo e Barbaridades
+Authors and acknoowledgment: Thaís de Souza Marins
 Licese:
-Project status: beabá
+Project status: 
