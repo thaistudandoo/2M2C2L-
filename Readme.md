@@ -4,9 +4,9 @@ Badges:
 Visuals:
 Installation:
 Usage:
-Support:
+Support: Bárbara de Melo Quintela
 Roadmap:
 Contributing:
 Authors and acknoowledgment: Thaís de Souza Marins
 Licese:
-Project status: 
+Project status: Under development
