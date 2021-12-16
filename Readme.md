@@ -1,5 +1,10 @@
 Mathematical Model for Chemoimmunotherapy of Chronic Lymphocytic Leukemia (2M2C2L)
 
+
+
+
+
+![Diagram](https://github.com/thaistudandoo/2M2C2L-/blob/main/Diagram.png)
 Badges:
 Visuals:
 Installation:
