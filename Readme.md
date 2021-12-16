@@ -4,12 +4,17 @@ About: In the various areas of cancer research, mathematical modeling, as well a
 
 Math Model:
 
+Denoting the number of cancer cells by N (neoplastic B-lymphocytes), the number of immune cells by
+I (\healthy" T-lymphocytes) and the amount (or mass) of chemotherapeutic agent in the bloodstream
+by Q.
+
 
 ![Diagram](https://github.com/thaistudandoo/2M2C2L-/blob/main/Diagram.png)
 
 In this diagram we can understand the model used in a simplified way. Mathematically, we have:
 
 ![Model](https://github.com/thaistudandoo/2M2C2L-/blob/main/Model.png)
+
 
 Language: Python
 
